@@ -1,0 +1,71 @@
+
+h2 {
+  font-family: "Times New Roman", serif;
+}
+h3 {
+  font-family: "Brush Script MT", serif;
+  font-style: italic;
+}
+a {
+  color: #6600FF;
+}
+nav ul {
+  background-color: #FF3647;
+  border-style: solid;
+  border-color: #C71585;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #FFEFD5;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #880055;
+}
+
+nav ul li a:hover {
+  animation-name: glowPulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+img {
+display: inline-block;
+
+}
+
+
+p{
+
+
+
+
+
+display: inline-block;
+
+
+    
+}
+
+
+
+
+
+body{
+
+background-color: #FF3647;
+font-family: "Times New Roman", serif;
+color:#FFEFD5 ;
+}
+
+
+
+
+
+
